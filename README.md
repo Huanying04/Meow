@@ -1,5 +1,5 @@
 # Meow
-喵喵語。一種具有圖靈完備性的語言。是Brainfuck和Ook!的變種。
+喵喵語。一種圖靈完備的語言。是Brainfuck和Ook!的變種。
 
 # 使用方法
 簡單的Hello World!程式。
